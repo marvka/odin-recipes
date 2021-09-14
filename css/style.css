@@ -1,3 +1,7 @@
 img.food-photo {
   max-width: 75vw;
 }
+
+a#index {
+  display: block;
+}
