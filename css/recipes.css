@@ -1,0 +1,16 @@
+ol,
+ul {
+  align-self: flex-start;
+}
+
+img.food-photo {
+  max-width: 500px;
+}
+
+a.index {
+  display: block;
+}
+
+h2 {
+  color: #cd13d8;
+}
